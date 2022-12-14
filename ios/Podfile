@@ -26,6 +26,9 @@ target 'DemoPrimisAds' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
+  pod 'PrimisPlayer', '~> 1.6.0'
+  pod 'GoogleAds-IMA-iOS-SDK', '~> 3.16.3'
+  
   target 'DemoPrimisAdsTests' do
     inherit! :complete
     # Pods for testing
