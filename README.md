@@ -18,7 +18,7 @@ pod install
 
 ## **Run IOS App**
 
-at the root fodler
+At the root fodler
 
 ```bash
 yarn ios
