@@ -27,7 +27,7 @@ target 'DemoPrimisAds' do
   )
 
   pod 'PrimisPlayer', '~> 1.6.0'
-  pod 'GoogleAds-IMA-iOS-SDK', '~> 3.16.3'
+  pod 'GoogleAds-IMA-iOS-SDK', '~> 3.14.1'
   
   target 'DemoPrimisAdsTests' do
     inherit! :complete
