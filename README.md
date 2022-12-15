@@ -9,7 +9,7 @@ yarn install
 **Step 2**: At the ios folder
 
 ```bash
-cd /ios
+cd ./ios
 ```
 
 ```bash
